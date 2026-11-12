@@ -1,0 +1,10 @@
+¡FELICIDADES POR TU PROYECTO eduf1st!
+========================================
+Proyecto: EL DOBLE PODER LA DOBLE X
+
+¿Cómo ver tu página web?
+1. Haz doble clic en el archivo "index.html".
+2. ¡Se abrirá en Google Chrome, Edge o Safari automáticamente!
+
+¿Tiene Java?
+No. Esta página fue creada exclusivamente con HTML5 y CSS3 para que sea veloz, segura y fácil de entender.
